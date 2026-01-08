@@ -1,1 +1,2 @@
-# traffic-sign-recognition-it1244
+# Traffic Sign Recognition Project (IT1244)
+
